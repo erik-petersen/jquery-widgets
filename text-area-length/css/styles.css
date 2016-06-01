@@ -1,0 +1,22 @@
+body {
+  font-family: "Raleway", sans-serif;
+  background: firebrick;
+}
+
+form {
+  width: 4em;
+  height: 1em;
+  margin: 12em 33.25em .25em;
+}
+
+textarea {
+  width: 15em;
+  font-size: 1.5em;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  margin: 3.25em auto;
+  color: #fff;
+}
